@@ -30,6 +30,11 @@ docker-compose up -d
 Point your browser to `http://localhost` and follow the instructions for a new installation.
 At the end of the installation ignore the errors related with unlinking files.
 
+Write enable the uploads directory
+```
+chmod uga+w ../Cloudlog/uploads
+```
+
 Your dev environment is now ready.
 
 ## Usage
