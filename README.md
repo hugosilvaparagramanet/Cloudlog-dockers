@@ -35,6 +35,11 @@ Write enable the uploads directory
 chmod uga+w ../Cloudlog/uploads
 ```
 
+Write enable the updates directory
+```
+chmod uga+w ../Cloudlog/updates
+```
+
 Your dev environment is now ready.
 
 ## Usage
